@@ -5,7 +5,7 @@
     <classes>
       <class name="testcases.NewTest">
         <methods>
-          <include name="third"/>
+          <include name="fourth"/>
         </methods>
       </class> <!-- testcases.NewTest -->
     </classes>
