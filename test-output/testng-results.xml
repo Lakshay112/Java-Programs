@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="48" started-at="2019-06-10T16:24:09Z" finished-at="2019-06-10T16:24:09Z">
+  <suite name="Default suite" duration-ms="50" started-at="2019-06-10T18:09:27Z" finished-at="2019-06-10T18:09:27Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="48" started-at="2019-06-10T16:24:09Z" finished-at="2019-06-10T16:24:09Z">
+    <test name="Default test" duration-ms="50" started-at="2019-06-10T18:09:27Z" finished-at="2019-06-10T18:09:27Z">
       <class name="testcases.NewTest">
-        <test-method status="PASS" signature="first()[pri:0, instance:testcases.NewTest@7ca48474]" name="first" duration-ms="12" started-at="2019-06-10T09:24:09Z" finished-at="2019-06-10T09:24:09Z">
+        <test-method status="PASS" signature="first()[pri:0, instance:testcases.NewTest@7ca48474]" name="first" duration-ms="17" started-at="2019-06-10T11:09:27Z" finished-at="2019-06-10T11:09:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- first -->
-        <test-method status="PASS" signature="second()[pri:0, instance:testcases.NewTest@7ca48474]" name="second" duration-ms="2" started-at="2019-06-10T09:24:09Z" finished-at="2019-06-10T09:24:09Z">
+        <test-method status="PASS" signature="second()[pri:0, instance:testcases.NewTest@7ca48474]" name="second" duration-ms="2" started-at="2019-06-10T11:09:27Z" finished-at="2019-06-10T11:09:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- second -->
-        <test-method status="PASS" signature="third()[pri:0, instance:testcases.NewTest@7ca48474]" name="third" duration-ms="3" started-at="2019-06-10T09:24:09Z" finished-at="2019-06-10T09:24:09Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- third -->
       </class> <!-- testcases.NewTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

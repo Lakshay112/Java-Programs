@@ -22,13 +22,6 @@ public class NewTest {
 	  int actual=se.fact(a);
 	  Assert.assertEquals(actual, 1);
   }
-  
-  @Test
-  public void third() {
-	  Factorial f=new Factorial();
-	  int a=-1;
-	  int actual=f.fact(a);
-	  Assert.assertEquals(actual,0 );
-  }
+
  
 }
